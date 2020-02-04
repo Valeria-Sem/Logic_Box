@@ -1,0 +1,16 @@
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\bin\Debug\Logic_Box.exe.config
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\bin\Debug\Logic_Box.exe
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\bin\Debug\Logic_Box.pdb
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.csprojAssemblyReference.cache
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.Form1.resources
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.Form4.resources
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.Properties.Resources.resources
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.csproj.GenerateResource.cache
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.csproj.CoreCompileInputs.cache
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.exe
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.pdb
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.Form2.resources
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.Form5.resources
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.Form6.resources
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.Form3.resources
+C:\Users\leras\source\repos\Logic_Box\Logic_Box\obj\Debug\Logic_Box.Form7.resources
